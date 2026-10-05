@@ -24,7 +24,6 @@
 📌 Data Structures & Algorithms (DSA)  
 📌 Object-Oriented Programming (OOP)  
 📌 Database Management Systems (DBMS)  
-📌 Computer Networks  
 📌 Operating Systems
 
 
